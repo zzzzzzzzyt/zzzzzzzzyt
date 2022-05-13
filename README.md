@@ -26,6 +26,6 @@
 "难道向上攀爬的那条路，不是比站在顶峰更让人热血澎拜吗"
 ```
 
-![Alt](https://repobeats.axiom.co/api/embed/4665ff2f24bfc36800376ca97833ded99e924351.svg "Repobeats analytics image")
+![Metrics](https://metrics.lecoq.io/zzzzzzzzyt?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
 
