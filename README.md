@@ -22,6 +22,3 @@
 ```
 "难道向上攀爬的那条路，不是比站在顶峰更让人热血澎拜吗"                       
 ```
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zzzzzzzzyt&theme=xcode" /> </div>
-
