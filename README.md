@@ -12,7 +12,7 @@
  <a href="https://gitee.com/zeng-yangtian"><img src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-Gitee-important" alt="Gitee"></a>
  <img src="https://visitor-badge.glitch.me/badge?page_id=zzzzzzzzyt" /> 
 
-囊括了大部分校招所需技术栈笔记 🖊
+囊括了大部分校招所需技术栈笔记🍕
 
 当然还有我做过的刷题笔记、开源项目、手写框架  易→难 
 
